@@ -1,0 +1,5 @@
+program: Tap_viet_code
+uses crt;
+var A:integer;
+begin
+clrscr;
